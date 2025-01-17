@@ -1,4 +1,4 @@
-# Kaggle Spaceship Titanic Competition - score:80.827%
+# Kaggle Spaceship Titanic Competition - score:80.827% （Top 5%)
 
 *Details and visualize plots are in notebook*
 
