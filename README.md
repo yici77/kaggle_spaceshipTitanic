@@ -1,5 +1,7 @@
 # Kaggle Spaceship Titanic Competition - score:80.827%
 
+*Details and visualize plots are in notebook*
+
 ### Initial setup
 **1. Imports packages**
 
